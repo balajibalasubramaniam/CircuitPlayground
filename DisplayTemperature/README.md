@@ -22,3 +22,4 @@ You should see the temperature in the TFT Gizmo; if not check the video instruct
 
 # Video
 For video instructions - follow the below URL.
+YouTube - [https://youtu.be/JFP1OR6FBrw](https://youtu.be/JFP1OR6FBrw)
