@@ -14,7 +14,9 @@ Double-press the reset button in Circuit Playground Express so that the boot dri
 Press the reset button to launch the code. If you don't get graphics on the TFT, check the assembly video below.
 
 # Upload display temperature code into Circuit Playground
-Copy code.py and the lib folder into the Circuit Playground.
+Copy the code.py file and the lib folder into the Circuit Playground.
+
+You should see the temperature in the TFT Gizmo; if not check the video instructions below.
 
 # Video
 For video instructions - follow the below URL.
