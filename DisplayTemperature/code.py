@@ -3,7 +3,7 @@ Adafruit Circuit Playground TFT Gizmo
 # Date: September 13, 2023
 
 """
-This code will initialize the display using displayio and see the temperature on the TFT.
+This code will initialize the display using displayio and shows the temperature on the TFT Gizmo.
 """
 import displayio
 import terminalio
