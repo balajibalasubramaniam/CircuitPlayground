@@ -2,7 +2,7 @@
 Download and install the Circuit Playground Express + Displayio.
 This is the latest stable release of CircuitPython 8.2.6 that will work with Circuit Playground Express + Displayio. 
 
-![alt text](https://github.com/balajibalasubramaniam/CircuitPlayground/blob/main/DisplayTemperature/TFTGizmo_DisplayTemperture.jpg)
+![alt text](https://github.com/balajibalasubramaniam/CircuitPlayground/blob/main/DisplayTemperature/TFTGizmo_DisplayTemperature.jpg)
 
 # Download website
 URL - [Circuit Playground Express + Displayio](https://circuitpython.org/board/circuitplayground_express_displayio/)
