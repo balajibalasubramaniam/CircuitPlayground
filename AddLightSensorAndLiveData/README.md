@@ -4,7 +4,7 @@ Project labs at K-State University
 # Add light sensor data to TFT Gizmo display and live stream the data
 If you have successfully completed the Lab-1 Display Temperature, copy the files and lib folder. The code.py file contains the software to add light sensor data to TFT Gizmo display and live stream the data.
 
-![alt text](https://github.com/balajibalasubramaniam/CircuitPlayground/blob/main/DisplayTemperature/TempLightAndLive.jpg)
+![alt text](https://github.com/balajibalasubramaniam/CircuitPlayground/blob/main/AddLightSensorAndLiveData/TempLightAndLive.jpg)
 
 If you have not completed the Lab-1 Display Temperature, follow the below steps to install the dependencies.
 
