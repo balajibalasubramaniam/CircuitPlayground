@@ -25,10 +25,10 @@ text_group = displayio.Group(scale=2, x=50, y=120)
 #setup temperature sensor
 thermistor=adafruit_thermistor.Thermistor(board.TEMPERATURE,10000,10000,25,3950)
 # variable with initial text value, temperature rounded to 2 places
-text = "%.2f C" % (round(thermistor.temperature, 2))
+text_temp = "%.2f C" % (round(thermistor.temperature, 2))
 
 # Create a Label to show the initial temperature value
-text_area = label.Label(terminalio.FONT, text=text, color=0xFFFF00)
+text_area = label.Label(terminalio.FONT, text=text_temp, color=0xFFFF00)
 text_group.append(text_area)  # Subgroup for text scaling
 splash.append(text_group)
 
