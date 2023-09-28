@@ -9,7 +9,7 @@ If you have successfully completed the Lab-1 Display Temperature, copy the files
 If you have not completed the Lab-1 Display Temperature, follow the below steps to install the dependencies.
 
 # Download website
-URL - Circuit Playground Express + Displayio
+URL - [Circuit Playground Express + Displayio](https://circuitpython.org/board/circuitplayground_express_displayio/)
 
 If you have an issue with the above download, then use the dependency folder to download the below file and follow the installation steps. Filename - adafruit-circuitpython-circuitplayground_express_displayio-en_US-8.2.6.uf2
 
