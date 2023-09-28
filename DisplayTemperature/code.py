@@ -1,4 +1,4 @@
-Adafruit Circuit Playground TFT Gizmo
+# Adafruit Circuit Playground TFT Gizmo
 # Author: Balaji Balasubramaniam
 # Date: September 13, 2023
 
