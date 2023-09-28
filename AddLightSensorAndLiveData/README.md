@@ -19,8 +19,8 @@ Double-press the reset button in Circuit Playground Express so that the boot dri
 Press the reset button to launch the code. If you don't get graphics on the TFT, check the assembly video below.
 
 # Video
-For Lab-1 video instructions - follow the below URL.
+For Lab-1 display temperature video instructions - follow the below URL.
 YouTube - [https://youtu.be/JFP1OR6FBrw](https://youtu.be/JFP1OR6FBrw)
 
-For Lab-2 video instructions - follow the below URL.
+For Lab-2 add light sensor and live stream data video instructions - follow the below URL.
 YouTube - [https://youtu.be/BQ2cf9JVNMQ](https://youtu.be/BQ2cf9JVNMQ)
