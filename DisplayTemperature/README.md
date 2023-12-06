@@ -29,13 +29,17 @@ Thanks to MacGnG. For anyone using new version CircuitPython 9+ (adafruit-circui
 
 Change the ORIGINAL Lines #18 through 20, only an issue if on CircuitPython 9+
 
+```
 # Make the display context
 splash = displayio.Group()
 display.show(splash)
+```
 
 NEW Line #18 through 20 (For CircuitPlayground 9+)
 
+```
 # Make the display context
 splash = displayio.Group()
 display.root_group=splash
+```
 
