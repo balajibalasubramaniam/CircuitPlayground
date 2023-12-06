@@ -27,14 +27,15 @@ YouTube - [https://youtu.be/JFP1OR6FBrw](https://youtu.be/JFP1OR6FBrw)
 #Update
 Thanks to MacGnG. For anyone using new version CircuitPython 9+ (adafruit-circuitpython-circuitplayground_express_displayio-en_US-9.0.0-alpha.5.uf2) from... (https://adafruit-circuit-python.s3.amazonaws.com/index.html?prefix=bin/circuitplayground_express_displayio/en_US/)
 
-Change the ORIGINAL Lines #18 through 20
+Change the ORIGINAL Lines #18 through 20, only an issue if on CircuitPython 9+
 
 # Make the display context
 splash = displayio.Group()
 display.show(splash)
+
 NEW Line #18 through 20 (For CircuitPlayground 9+)
 
 # Make the display context
 splash = displayio.Group()
 display.root_group=splash
-Only an issue if on CircuitPython 9+, but might be helpful for others! Thanks :)
+
